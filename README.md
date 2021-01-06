@@ -23,6 +23,7 @@ ssh `terraform output sender-ip`
 sudo pip3 install pyshark
 sudo pip3 install google-cloud-pubsub
 sudo python3 packet-sniff.py -p [PROJECT ID] -t [TOPIC ID]
+ping localhost
 ```  
 
 ## Sources
