@@ -1,0 +1,2 @@
+pyshark
+google-cloud-pubsub
